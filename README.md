@@ -7,7 +7,7 @@ Typed GraphQL queries for Arweave
 ## Features
 
 - Full typescript support for both queries and results
-- No need to buld gql string templates
+- No need to build gql string templates
 
 ## How to use
 Install from NPM:
