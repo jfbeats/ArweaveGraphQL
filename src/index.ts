@@ -1,4 +1,4 @@
-import { getSdk } from './generated'
+import { getSdk } from './generated.js'
 import { GraphQLClient } from 'graphql-request'
 export * from './generated.js'
 
