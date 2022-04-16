@@ -1,6 +1,6 @@
 {
 	"name": "arweave-graphql",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "Typed GraphQL for arweave queries",
 	"type": "module",
 	"module": "lib/index.js",
